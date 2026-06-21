@@ -1,4 +1,4 @@
-# End-to-End Oral Lesion Detection Pipeline
+# End-to-End Oral Cancer Detection Pipeline
 
 **Advanced AI System for Oral Lesion Detection with Attention Mechanisms** — Optimized for **Edge Devices** and **Clinical Desktop Deployment**.
 
