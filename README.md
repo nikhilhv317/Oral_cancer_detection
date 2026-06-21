@@ -36,5 +36,3 @@ A complete **end-to-end deep learning pipeline** for detecting oral lesions in c
 - **Computer Vision**: OpenCV
 - **GUI**: PyQt6
 - **Deployment**: PyInstaller, Inno Setup, Linux packaging tools
-
-## Project Structure
